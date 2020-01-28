@@ -1,0 +1,44 @@
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\BarcodeRecoveryCS.exe.config
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\BarcodeRecoveryCS.exe
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\BarcodeRecoveryCS.pdb
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\Emgu.CV.dll
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\Emgu.CV.ML.dll
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\Emgu.CV.Shape.dll
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\Emgu.CV.UI.dll
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\zxing.dll
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\Emgu.Util.dll
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\ZedGraph.dll
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\Emgu.CV.xml
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\Emgu.CV.ML.xml
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\Emgu.CV.Shape.xml
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\Emgu.CV.UI.xml
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\zxing.pdb
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\zxing.xml
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\Emgu.Util.xml
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\obj\Release\BarcodeRecoveryCS.csprojResolveAssemblyReference.cache
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\obj\Release\BarcodeRecoveryCS.Form1.resources
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\obj\Release\BarcodeRecoveryCS.Properties.Resources.resources
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\obj\Release\BarcodeRecoveryCS.csproj.GenerateResource.Cache
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\obj\Release\BarcodeRecoveryCS.exe
+C:\Users\Roy\Documents\Visual Studio 2013\Projects\BarcodeRecoveryCS\BarcodeRecoveryCS\obj\Release\BarcodeRecoveryCS.pdb
+C:\Users\spino\OneDrive\Documents\Visual Studio 2015\Projects\CS\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\BarcodeRecoveryCS.exe.config
+C:\Users\spino\OneDrive\Documents\Visual Studio 2015\Projects\CS\BarcodeRecoveryCS\BarcodeRecoveryCS\obj\Release\BarcodeRecoveryCS.exe
+C:\Users\spino\OneDrive\Documents\Visual Studio 2015\Projects\CS\BarcodeRecoveryCS\BarcodeRecoveryCS\obj\Release\BarcodeRecoveryCS.pdb
+C:\Users\spino\OneDrive\Documents\Visual Studio 2015\Projects\CS\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\BarcodeRecoveryCS.exe
+C:\Users\spino\OneDrive\Documents\Visual Studio 2015\Projects\CS\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\BarcodeRecoveryCS.pdb
+C:\Users\spino\OneDrive\Documents\Visual Studio 2015\Projects\CS\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\Emgu.Util.dll
+C:\Users\spino\OneDrive\Documents\Visual Studio 2015\Projects\CS\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\ZedGraph.dll
+C:\Users\spino\OneDrive\Documents\Visual Studio 2015\Projects\CS\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\Emgu.CV.xml
+C:\Users\spino\OneDrive\Documents\Visual Studio 2015\Projects\CS\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\Emgu.CV.ML.xml
+C:\Users\spino\OneDrive\Documents\Visual Studio 2015\Projects\CS\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\Emgu.CV.Shape.xml
+C:\Users\spino\OneDrive\Documents\Visual Studio 2015\Projects\CS\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\Emgu.CV.UI.xml
+C:\Users\spino\OneDrive\Documents\Visual Studio 2015\Projects\CS\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\zxing.pdb
+C:\Users\spino\OneDrive\Documents\Visual Studio 2015\Projects\CS\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\zxing.xml
+C:\Users\spino\OneDrive\Documents\Visual Studio 2015\Projects\CS\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\Emgu.Util.xml
+C:\Users\spino\OneDrive\Documents\Visual Studio 2015\Projects\CS\BarcodeRecoveryCS\BarcodeRecoveryCS\obj\Release\BarcodeRecoveryCS.csprojResolveAssemblyReference.cache
+C:\Users\spino\OneDrive\Documents\Visual Studio 2015\Projects\CS\BarcodeRecoveryCS\BarcodeRecoveryCS\obj\Release\BarcodeRecoveryCS.Form1.resources
+C:\Users\spino\OneDrive\Documents\Visual Studio 2015\Projects\CS\BarcodeRecoveryCS\BarcodeRecoveryCS\obj\Release\BarcodeRecoveryCS.Properties.Resources.resources
+C:\Users\spino\OneDrive\Documents\Visual Studio 2015\Projects\CS\BarcodeRecoveryCS\BarcodeRecoveryCS\obj\Release\BarcodeRecoveryCS.csproj.GenerateResource.Cache
+H:\BarcodeRecoveryCS\BarcodeRecoveryCS\bin\Release\BarcodeRecoveryCS.exe.config
+H:\BarcodeRecoveryCS\BarcodeRecoveryCS\obj\Release\BarcodeRecoveryCS.exe
+H:\BarcodeRecoveryCS\BarcodeRecoveryCS\obj\Release\BarcodeRecoveryCS.pdb
