@@ -1,2 +1,4 @@
 # BarcodeScanner
 Senior Project
+
+## Technology
